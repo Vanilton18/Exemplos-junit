@@ -1,2 +1,14 @@
 # Exemplos-junit
-Projeto para exemplos de uso do Framework JUnit
+Projeto em Java para exemplos de uso do Framework JUnit
+
+
+* Anotações
+
+* Asserts
+
+* Exceptions
+
+* Timeout
+
+* Parametrização
+
